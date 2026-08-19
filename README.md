@@ -15,13 +15,13 @@ CS (AI) Student @ Brunel University London | VC Scholar | Open to Placement
 **Concepts:** OOP · REST APIs · Data Structures · Microservices
 
 ## 📌 Featured Projects
-🤖 SpyBot — Secure Morse code communication system for a physical robot (Java)
-🧠 SE Education Toolkit — AI-powered lab generator for software engineering education (Next.js/TypeScript)
-🔍 MiSAR Parser — Microservice architecture recovery tool contribution (Python)
-🎓 Grade Classification Calculator — UK degree classification calculator for students (Next.js/TypeScript)
-📅 RotaSync — AI-powered shift scheduling app with constraint-based rota generation (Next.js/Python)
-🎮 Simon Swift — SwiftBot — Simon Says memory game built as a collaborative project (Swift)
-🔧 SwiftBot Code Integration — Menu-driven integration of multiple robot behaviours (Java)
+🤖 **SpyBot** — Secure Morse code communication system for a physical robot (Java)
+🧠 **SE Education Toolkit** — AI-powered lab generator for software engineering education (Next.js/TypeScript)
+🔍 **MiSAR Parser** — Microservice architecture recovery tool contribution (Python)
+🎓 **Grade Classification Calculator** — UK degree classification calculator for students (Next.js/TypeScript)
+📅 **RotaSync** — AI-powered shift scheduling app with constraint-based rota generation (Next.js/Python)
+🎮 **Simon Swift** — SwiftBot — Simon Says memory game built as a collaborative project (Swift)
+🔧 **SwiftBot Code Integration** — Menu-driven integration of multiple robot behaviours (Java)
 
 ## 🌐 Portfolio
 **[portfolio-119krtk.vercel.app](https://portfolio-119krtk.vercel.app)**
