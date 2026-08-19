@@ -9,9 +9,9 @@ CS (AI) Student @ Brunel University London | VC Scholar | Open to Placement
 - 🌱 Currently building: Portfolio site, Multiplayer game, Open source contributions
 
 ## 🛠️ Tech Stack
-**Languages:** Java · Python · TypeScript · JavaScript  
+**Languages:** Java · Python · TypeScript · JavaScript · R
 **Frameworks:** Next.js · React · Tailwind CSS · Node.js  
-**Tools:** Git · GitHub · VS Code · IntelliJ IDEA · Vercel · Eclipse
+**Tools:** Git · GitHub · VS Code · IntelliJ IDEA · Vercel · Eclipse 
 **Concepts:** OOP · REST APIs · Data Structures · Microservices
 
 ## 📌 Featured Projects
