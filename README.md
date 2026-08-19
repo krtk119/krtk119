@@ -11,7 +11,7 @@ CS (AI) Student @ Brunel University London | VC Scholar | Open to Placement
 ## 🛠️ Tech Stack
 **Languages:** Java · Python · TypeScript · JavaScript · R
 **Frameworks:** Next.js · React · Tailwind CSS · Node.js  
-**Tools:** Git · GitHub · VS Code · IntelliJ IDEA · Vercel · Eclipse 
+**Tools:** Git · GitHub · VS Code · IntelliJ IDEA · Vercel · Eclipse · R Studio
 **Concepts:** OOP · REST APIs · Data Structures · Microservices
 
 ## 📌 Featured Projects
