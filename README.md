@@ -4,6 +4,7 @@ CS (AI) Student @ Brunel University London | VC Scholar | Open to Placement
 
 ## 🚀 About Me
 - 🎓 BSc Computer Science (Artificial Intelligence) — Year 2, First Class
+- Summer School at SDU
 - 🏙️ Based in London, originally from Delhi
 - 💼 Looking for a placement opportunities in London 
 - 🌱 Currently building: Portfolio site, Multiplayer game, Open source contributions
