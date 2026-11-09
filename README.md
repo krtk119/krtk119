@@ -17,17 +17,17 @@
 
 BSc Computer Science (AI) student at Brunel University London, Vice Chancellor's Scholar, and someone who genuinely loves building things.
 
-My goal is to work at a company where the engineering bar is high and the problems are hard. Right now I'm closing that gap — open source contributions, placement applications, daily DSA practice, and projects I'm actually proud of.
+My goal is to work at a company where the engineering bar is high and the problems are hard. Right now I'm closing that gap, open source contributions, placement applications, daily DSA practice, and projects I'm actually proud of.
 
 ---
 
 ## 🔭 Currently Working On
 
-- 🤖 **Code Review Agent Taxonomy** — evaluating AI PR review tools against production codebases @ BTM/AISE Labs
-- 🌐 **Portfolio Site** — Next.js 16, Tailwind CSS v4, dark mode, AI chatbot (coming soon)
-- 🗂️ **TickTrack** — project management tool built with the team
-- 📊 **FUMEplot** — HPC simulation visualisation research under Dr Derek Groen @ Brunel
-- 🧩 **DSA Practice** — daily LeetCode in Java, working through NeetCode 150
+- 🤖 **Code Review Agent Taxonomy** - evaluating AI PR review tools against production codebases @ BTM/AISE Labs
+- 🌐 **Portfolio Site** - Next.js 16, Tailwind CSS v4, dark mode, AI chatbot (coming soon)
+- 🗂️ **TickTrack** - project management tool built with the team
+- 📊 **FUMEplot** - HPC simulation visualisation research under Dr Derek Groen @ Brunel
+- 🧩 **DSA Practice** - daily LeetCode in Java, working through NeetCode 150
 
 ---
 
@@ -64,13 +64,13 @@ My goal is to work at a company where the engineering bar is high and the proble
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🏥 Dexter Care](https://github.com/krtk119/dexter-care) | One-handed medication confirmation tool — Top 4 @ Eli Lilly Code For All 2026 | Next.js · Gemini API · Tailwind |
-| [🗂️ TickTrack](https://github.com/krtk119/ticktrack-uk) | Project management tool — task tracking, team collaboration | Next.js · TypeScript |
+| [🏥 Dexter Care](https://github.com/krtk119/dexter-care) | One-handed medication confirmation tool - Top 4 @ Eli Lilly Code For All 2026 | Next.js · Gemini API · Tailwind |
+| [🗂️ TickTrack](https://github.com/krtk119/ticktrack-uk) | Project management tool - task tracking, team collaboration | Next.js · TypeScript |
 | [🤖 SpyBot](https://github.com/krtk119) | Secure two-way Morse code comms system for a physical robot | Java · Robotics |
 | [🎓 SE Education Toolkit](https://github.com/krtk119) | AI-powered lab exercise generator for software engineering education | Next.js · TypeScript |
 | [📊 Grade Calculator](https://github.com/krtk119/Grade-Classification-Calculator) | UK degree classification calculator with reverse grade lookup | Next.js · TypeScript |
 | [📅 RotaSync](https://github.com/krtk119/RotaSync) | AI-powered shift scheduling with constraint-based rota generation | Next.js · Python · Supabase |
-| [🎮 Simon Swift](https://github.com/mannycodes20/Simon-Swift---SwiftBot) | Simon Says memory game — collaborative project | Swift · iOS |
+| [🎮 Simon Swift](https://github.com/mannycodes20/Simon-Swift---SwiftBot) | Simon Says memory game - collaborative project | Swift · iOS |
 | [🔧 Formative Task 5](https://github.com/krtk119/Formative-Task-5) | Menu-driven integration of multiple SwiftBot behaviours | Java · Robotics |
 
 ---
@@ -92,13 +92,13 @@ My goal is to work at a company where the engineering bar is high and the proble
 
 ## 🏆 Achievements & Roles
 
-- 🎖️ **Vice Chancellor's Scholar** — Brunel University London (top 10% of cohort)
-- 🥈 **Top 4** — Eli Lilly Code For All 2026 Hackathon (Track 3: Dexterity Disability)
-- 🌍 **SDU International Summer School** — Fully funded, Odense Denmark (R programming)
-- 🧑‍💼 **Deloitte Brand Ambassador** — 2026/27 academic year via Higherin Academy
-- 👨‍🏫 **Undergraduate Teaching Assistant** — CS Dept, Brunel (CS1602 & CS1603)
-- 🤝 **PAL Leader** — Peer Assisted Learning, Brunel ASK
-- 🔐 **Web Officer** — Brunel Cyber Security Society
+- 🎖️ **Vice Chancellor's Scholar** - Brunel University London (top 10% of cohort)
+- 🥈 **Top 4** - Eli Lilly Code For All 2026 Hackathon (Track 3: Dexterity Disability)
+- 🌍 **SDU International Summer School** - Fully funded, Odense Denmark (R programming)
+- 🧑‍💼 **Deloitte Brand Ambassador** - 2026/27 academic year via Higherin Academy
+- 👨‍🏫 **Undergraduate Teaching Assistant** - CS Dept, Brunel (CS1602 & CS1603)
+- 🤝 **PAL Leader** - Peer Assisted Learning, Brunel ASK
+- 🔐 **Software Engineer** - Brunel Talent Marketplace (under Dr. Alan Serrano)
 
 ---
 
