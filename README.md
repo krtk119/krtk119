@@ -26,7 +26,7 @@ My goal is to work at a company where the engineering bar is high and the proble
 - 🤖 **Code Review Agent Taxonomy** - evaluating AI PR review tools against production codebases @ BTM/AISE Labs
 - 🌐 **Portfolio Site** - Next.js 16, Tailwind CSS v4, dark mode, AI chatbot (coming soon)
 - 🗂️ **TickTrack** - project management tool built with the team
-- 📊 **FUMEplot** - HPC simulation visualisation research under Dr Derek Groen @ Brunel
+- 📊 **ASE Batch Agent** - BTM (under Dr. Alan Serrano)
 - 🧩 **DSA Practice** - daily LeetCode in Java, working through NeetCode 150
 
 ---
