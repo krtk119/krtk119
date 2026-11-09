@@ -79,10 +79,6 @@ My goal is to work at a company where the engineering bar is high and the proble
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krtk119&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krtk119&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&langs_count=6" />
-
-<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=krtk119&theme=dark&hide_border=true&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/krtk119)
 
